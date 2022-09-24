@@ -1,2 +1,2 @@
-# KODLAMA--DEV-1
+# KODLAMA-IO-Homeworks
 ÖDEV OLUŞTURULDU
